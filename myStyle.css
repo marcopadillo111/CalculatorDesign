@@ -31,7 +31,7 @@ input[type="button"] {
     border-left: 1px solid rgba(180, 180, 180, 0.6);
     border-right: 1px solid rgba(200, 200, 200, 0.4);
     border-bottom: 1px solid rgba(220, 220, 220, 0.2);
-    box-shadow: 1px 1px 2px 0.75px black;
+    box-shadow: 1px 1px 2px 0.6px black;
 }
 
 input[type="button"]:active {
@@ -40,7 +40,7 @@ input[type="button"]:active {
     border-left: 1px solid rgba(200, 200, 200, 0.4);
     border-right: 1px solid rgba(180, 180, 180, 0.6);
     border-bottom: 1px solid rgba(160, 160, 160, 0.8);
-    box-shadow: 1px 1px 2px 1px black inset;
+    box-shadow: 1px 1px 2px 0.6px black inset;
     transform: translate(1px, 1px);
 }
 
