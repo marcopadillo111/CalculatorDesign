@@ -28,18 +28,18 @@ input[type="button"] {
     color: white;
     background-color: #26292e;
     border-top: 1px solid #ddd;
-	border-left: 1px solid #bbb;
-	border-right: 1px solid #777;
-	border-bottom: 1px solid #555;
+	   border-left: 1px solid #bbb;
+	   border-right: 1px solid #777;
+	   border-bottom: 1px solid #555;
     box-shadow: 1px 1px 2px 0.75px black;
 }
 
 input[type="button"]:active {
     background-color: #1b1c1f;
     border-top: 1px solid #555;
-	border-left: 1px solid #777;
-	border-right: 1px solid #bbb;
-	border-bottom: 1px solid #ddd;
+	   border-left: 1px solid #777;
+    	border-right: 1px solid #bbb;
+	   border-bottom: 1px solid #ddd;
     box-shadow: 1px 1px 2px 1px black inset;
     transform: translate(1px, 1px);
 }
@@ -50,10 +50,9 @@ input[type="text"] {
     pointer-events: none;
     background-color: black;
     border-top: 3px solid #555;
-	border-left: 3px solid #777;
-	border-right: 3px solid #bbb;
-	border-bottom: 3px solid #ddd;
-    box-shadow: 3px 3px 0 3px black inset;
+	   border-left: 3px solid #777;
+    	border-right: 3px solid #bbb;
+	   border-bottom: 3px solid #ddd;
 }
 
 #display {
