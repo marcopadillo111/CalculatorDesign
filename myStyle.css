@@ -25,7 +25,7 @@ input[type="button"] {
     height: 100%;
     font-size: 1em;
     font-weight: 900;
-    color: white;
+    color: #f7f7f7;
     background-color: #26292e;
     border-top: 1px solid rgba(160, 160, 160, 1);
     border-left: 1px solid rgba(140, 140, 140, 1);
@@ -71,7 +71,7 @@ input[type="text"] {
 }
 
 .red-font {
-    color: red !important;
+    color: #f73030 !important;
 }
 
 
