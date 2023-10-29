@@ -27,19 +27,19 @@ input[type="button"] {
     font-weight: 900;
     color: white;
     background-color: #26292e;
-    border-top: 1px solid rgba(160, 160, 160, 0.8);
-    border-left: 1px solid rgba(180, 180, 180, 0.6);
-    border-right: 1px solid rgba(200, 200, 200, 0.4);
-    border-bottom: 1px solid rgba(220, 220, 220, 0.2);
+    border-top: 1px solid rgba(160, 160, 160, 1);
+    border-left: 1px solid rgba(140, 140, 140, 1);
+    border-right: 1px solid rgba(120, 120, 120, 1);
+    border-bottom: 1px solid rgba(100, 100, 100, 1);
     box-shadow: 1px 1px 2px 0.6px black;
 }
 
 input[type="button"]:active {
     background-color: #1b1c1f;
-    border-top: 1px solid rgba(220, 220, 220, 0.2);
-    border-left: 1px solid rgba(200, 200, 200, 0.4);
-    border-right: 1px solid rgba(180, 180, 180, 0.6);
-    border-bottom: 1px solid rgba(160, 160, 160, 0.8);
+    border-top: 1px solid rgba(100, 100, 100, 1);
+    border-left: 1px solid rgba(120, 120, 120, 1);
+    border-right: 1px solid rgba(140, 140, 140, 1);
+    border-bottom: 1px solid rgba(160, 160, 160, 1);
     box-shadow: 1px 1px 2px 0.6px black inset;
     transform: translate(1px, 1px);
 }
@@ -63,7 +63,7 @@ input[type="text"] {
 }
 
 #equal {
-    background-color:#307af7;
+    background-color: #307af7;
 }
 
 #equal:active {
