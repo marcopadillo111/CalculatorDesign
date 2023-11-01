@@ -29,3 +29,4 @@ let displaySub = "6.2";
 mainText.value = displayMain;
 subText.value = displaySub;
 });
+
