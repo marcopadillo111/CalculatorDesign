@@ -27,3 +27,4 @@ mainText.textContent = "1+2*3-4÷5";
 subText.textContent = "6.2";
 
 });
+
