@@ -23,10 +23,7 @@ document.addEventListener("DOMContentLoaded", function() {
 let mainText = document.getElementById("mainText");
 let subText = document.getElementById("subText");
 
-let displayMain = "1+2*3-4÷5";
-let displaySub = "6.2";
+mainText.textContent = "1+2*3-4÷5";
+subText.textContent = "6.2";
 
-mainText.value = displayMain;
-subText.value = displaySub;
 });
-
